@@ -29,7 +29,7 @@ class _HomePageState extends State<HomePage> {
                   initialMediaPlaybackPolicy:
                   AutoMediaPlaybackPolicy.always_allow,
 
-                initialUrl: "http://localhost:3001",
+                initialUrl: "http://youtube.com",
                 javascriptMode: JavascriptMode.unrestricted,
                 javascriptChannels: {
                   JavascriptChannel(
